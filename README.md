@@ -35,7 +35,7 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14418)
   [![Star](https://img.shields.io/github/stars/EnSec-AI/VLM-Uncertainty-Bench.svg?style=social&label=Star)](https://github.com/EnSec-AI/VLM-Uncertainty-Bench)
 
-+ **LogicCheckGPT** [VL-Uncertainty: Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation](https://arxiv.org/abs/2402.11622) (18 Feb 2024, ACL 2024 Findings)
++ **LogicCheckGPT** [Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models](https://arxiv.org/abs/2402.11622) (18 Feb 2024, ACL 2024 Findings)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.11622)
   [![Star](https://img.shields.io/github/stars/CRIPAC-DIG/LogicCheckGPT.svg?style=social&label=Star)](https://github.com/CRIPAC-DIG/LogicCheckGPT)
 
