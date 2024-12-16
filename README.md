@@ -2,9 +2,17 @@
 
 ### :star::star::star: If you find this repo useful, please star it!
 
++ **DropoutDecoding** [From Uncertainty to Trust: Enhancing Reliability in Vision-Language Models with Uncertainty-Guided Dropout Decoding](https://arxiv.org/abs/2412.06474) (9 Dec 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06474)
+  [![Star](https://img.shields.io/github/stars/kigb/DropoutDecoding.svg?style=social&label=Star)](https://github.com/kigb/DropoutDecoding)
+
 + **VL-Uncertainty** [VL-Uncertainty: Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation](https://arxiv.org/abs/2411.11919) (18 Nov 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.11919)
   [![Star](https://img.shields.io/github/stars/Ruiyang-061X/VL-Uncertainty.svg?style=social&label=Star)](https://github.com/Ruiyang-061X/VL-Uncertainty)
+
++ **MUB** [Exploring Response Uncertainty in MLLMs: An Empirical Evaluation under Misleading Scenarios](https://arxiv.org/abs/2411.02708) (5 Nov 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.02708)
+  [![Star](https://img.shields.io/github/stars/Yunkai696/MUB.svg?style=social&label=Star)](https://github.com/Yunkai696/MUB)
   
 + **CrossPred-LVLM** [Can We Predict Performance of Large Models across Vision-Language Tasks?](https://arxiv.org/abs/2410.10112) (14 Oct 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10112)
@@ -24,12 +32,22 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.15356)
   [![Star](https://img.shields.io/github/stars/BT-C/HIO.svg?style=social&label=Star)](https://github.com/BT-C/HIO)
 
++ [Overconfidence is Key: Verbalized Uncertainty Evaluation in Large Language and Vision-Language Models](https://arxiv.org/abs/2405.02917) (5 May 2024, TrustNLP 2024))
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.02917)
+
++ **Consistency and Uncertainty** [Consistency and Uncertainty: Identifying Unreliable Responses From Black-Box Vision-Language Models for Selective Visual Question Answering](https://arxiv.org/abs/2404.10193) (16 Apr 2024, CVPR 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.10193)
+
 + **UPD** [Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models](https://arxiv.org/abs/2403.20331) (29 Mar 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.20331)
   [![Star](https://img.shields.io/github/stars/AtsuMiyai/UPD.svg?style=social&label=Star)](https://github.com/AtsuMiyai/UPD)
 
 + **ICD** [Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding](https://arxiv.org/abs/2403.18715) (27 Mar 2024, ACL 2024 Findings)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.18715)
+
++ **The First to Know** [The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?](https://arxiv.org/abs/2403.09037) (14 Mar 2024, ECCV 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.09037)
+  [![Star](https://img.shields.io/github/stars/Qinyu-Allen-Zhao/LVLM-LP.svg?style=social&label=Star)](https://github.com/Qinyu-Allen-Zhao/LVLM-LP)
 
 + **VLM-Uncertainty-Bench** [Uncertainty-Aware Evaluation for Vision-Language Models](https://arxiv.org/abs/2402.14418) (22 Feb 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14418)
