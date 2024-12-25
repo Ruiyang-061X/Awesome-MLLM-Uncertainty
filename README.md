@@ -2,6 +2,17 @@
 
 ### :star::star::star: If you find this repo useful, please star it!
 
+## Discussion
+
+🏄🏄🏄 Welcome to join our MLLM uncertainty discussion group (the left QR code)! Or add my WeChat (the right QR code) to enter the group if the group QR code expires~
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src=".asset/WeChat_Group.png" width="25%" style="margin-right: 10px;">
+    <img src=".asset/WeChat.png" width="25%" style="margin-left: 10px;">
+</div>
+
+## Awesome List
+
 + **DropoutDecoding** [From Uncertainty to Trust: Enhancing Reliability in Vision-Language Models with Uncertainty-Guided Dropout Decoding](https://arxiv.org/abs/2412.06474) (9 Dec 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06474)
   [![Star](https://img.shields.io/github/stars/kigb/DropoutDecoding.svg?style=social&label=Star)](https://github.com/kigb/DropoutDecoding)
