@@ -11,11 +11,33 @@
     <img src=".asset/Wechat_ZRY.png" width="25%">
 </p>
 
+## 🔥 News
+
+- 2025.1: 🔥🔥🔥 Check out our latest work: [VL-Uncertainty](https://arxiv.org/abs/2411.11919), leveraging semantic-equivalent perturbation for refined LVLM uncertainty estimation!
+
 ## Awesome List
+
++ **Calibration-MLLM** [Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models](https://arxiv.org/abs/2412.14660) (19 Dec 2024, COLING 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14660)
+  [![Star](https://img.shields.io/github/stars/hfutml/Calibration-MLLM.svg?style=social&label=Star)](https://github.com/hfutml/Calibration-MLLM)
+
++ **LAP** [LAP, Using Action Feasibility for Improved Uncertainty Alignment of Large Language Model Planners](https://arxiv.org/abs/2412.06474) (9 Dec 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06474)
 
 + **DropoutDecoding** [From Uncertainty to Trust: Enhancing Reliability in Vision-Language Models with Uncertainty-Guided Dropout Decoding](https://arxiv.org/abs/2412.06474) (9 Dec 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06474)
   [![Star](https://img.shields.io/github/stars/kigb/DropoutDecoding.svg?style=social&label=Star)](https://github.com/kigb/DropoutDecoding)
+
++ **IDK** [I Don't Know: Explicit Modeling of Uncertainty with an \[IDK\] Token](https://arxiv.org/abs/2412.06676) (9 Dec 2024, NeurIPS 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06676)
+  [![Star](https://img.shields.io/github/stars/roi-hpi/IDK-token-tuning.svg?style=social&label=Star)](https://github.com/roi-hpi/IDK-token-tuning)
+
++ **BayesVLM** [Post-hoc Probabilistic Vision-Language Models](https://arxiv.org/abs/2412.06014) (8 Dec 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06014)
+  [![Star](https://img.shields.io/github/stars/AaltoML/bayesVLM.svg?style=social&label=Star)](https://github.com/AaltoML/bayesVLM)
+
++ **UA-CLM** [Enhancing Trust in Large Language Models with Uncertainty-Aware Fine-Tuning](https://arxiv.org/abs/2412.02904) (3 Dec 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02904)
 
 + **VL-Uncertainty** [VL-Uncertainty: Detecting Hallucination in Large Vision-Language Model via Uncertainty Estimation](https://arxiv.org/abs/2411.11919) (18 Nov 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.11919)
@@ -28,6 +50,9 @@
 + **CrossPred-LVLM** [Can We Predict Performance of Large Models across Vision-Language Tasks?](https://arxiv.org/abs/2410.10112) (14 Oct 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.10112)
   [![Star](https://img.shields.io/github/stars/qinyu-allen-zhao/crosspred-lvlm.svg?style=social&label=Star)](https://github.com/qinyu-allen-zhao/crosspred-lvlm)
+
++ **TRON** [Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models](https://arxiv.org/abs/2410.08174) (10 Oct 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08174)
   
 + [Reference-free Hallucination Detection for Large Vision-Language Models](https://arxiv.org/abs/2408.05767) (11 Aug 2024, EMNLP 2024 Findings)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.05767)
@@ -72,6 +97,10 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.10189)
   [![Star](https://img.shields.io/github/stars/lingchen0331/UQ_ICL.svg?style=social&label=Star)](https://github.com/lingchen0331/UQ_ICL)
 
++ **IntroPlan** [Introspective Planning: Aligning Robots' Uncertainty with Inherent Task Ambiguity](https://arxiv.org/abs/2402.06529) (9 Feb 2024, NeurIPS 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.06529)
+  [![Star](https://img.shields.io/github/stars/kevinliang888/IntroPlan.svg?style=social&label=Star)](https://github.com/kevinliang888/IntroPlan)
+
 + **LLM-Uncertainty-Bench** [Benchmarking LLMs via Uncertainty Quantification](https://arxiv.org/abs/2401.12794) (23 Jan 2024, NeurIPS 2024 Datasets & Benchmarks)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.12794)
   [![Star](https://img.shields.io/github/stars/smartyfh/LLM-Uncertainty-Bench.svg?style=social&label=Star)](https://github.com/smartyfh/LLM-Uncertainty-Bench)
@@ -80,14 +109,26 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16922)
   [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VCD.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/VCD)
 
-+ **MAP** [MAP: Multimodal Uncertainty-Aware Vision-Language Pre-training Model](https://arxiv.org/abs/2210.05335) (11 Oct 2022, CVPR 2023)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.05335)
-  [![Star](https://img.shields.io/github/stars/IIGROUP/MAP.svg?style=social&label=Star)](https://github.com/IIGROUP/MAP)
++ **KnowNo** [Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners](https://arxiv.org/abs/2403.13198) (4 Jul 2023, CoRL 2023, Best Student Paper)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.13198)
+  [![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)](https://github.com/google-research/google-research/tree/master/language_model_uncertainty)
+
++ **ProbVLM** [ProbVLM: Probabilistic Adapter for Frozen Vision-Language Models](https://arxiv.org/abs/2307.00398) (1 Jul 2023, ICCV 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00398)
+  [![Star](https://img.shields.io/github/stars/ExplainableML/ProbVLM.svg?style=social&label=Star)](https://github.com/ExplainableML/ProbVLM)
 
 + [Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://arxiv.org/abs/2306.13063) (22 Jun 2023, ICLR 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.13063)
   [![Star](https://img.shields.io/github/stars/MiaoXiong2320/llm-uncertainty.svg?style=social&label=Star)](https://github.com/MiaoXiong2320/llm-uncertainty)
 
++ **UQ-NLG** [Generating with Confidence: Uncertainty Quantification for Black-box Large Language Models](https://arxiv.org/abs/2305.19187) (30 May 2023, TMLR)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.19187)
+  [![Star](https://img.shields.io/github/stars/zlin7/UQ-NLG.svg?style=social&label=Star)](https://github.com/zlin7/UQ-NLG)
+
 + **Semantic Uncertainty** [Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation](https://arxiv.org/abs/2302.09664) (19 Feb 2023, ICLR 2023 Spotlight)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.09664)
   [![Star](https://img.shields.io/github/stars/lorenzkuhn/semantic_uncertainty.svg?style=social&label=Star)](https://github.com/lorenzkuhn/semantic_uncertainty)
+
++ **MAP** [MAP: Multimodal Uncertainty-Aware Vision-Language Pre-training Model](https://arxiv.org/abs/2210.05335) (11 Oct 2022, CVPR 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.05335)
+  [![Star](https://img.shields.io/github/stars/IIGROUP/MAP.svg?style=social&label=Star)](https://github.com/IIGROUP/MAP)
