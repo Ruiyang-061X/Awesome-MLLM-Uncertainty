@@ -17,6 +17,9 @@
 
 ## Awesome List
 
++ **HEIE** [HEIE: MLLM-Based Hierarchical Explainable AIGC Image Implausibility Evaluator](https://arxiv.org/abs/2411.17261) (26 Nov 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17261)
+
 + **Calibration-MLLM** [Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models](https://arxiv.org/abs/2412.14660) (19 Dec 2024, COLING 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14660)
   [![Star](https://img.shields.io/github/stars/hfutml/Calibration-MLLM.svg?style=social&label=Star)](https://github.com/hfutml/Calibration-MLLM)
@@ -35,6 +38,12 @@
 + **BayesVLM** [Post-hoc Probabilistic Vision-Language Models](https://arxiv.org/abs/2412.06014) (8 Dec 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.06014)
   [![Star](https://img.shields.io/github/stars/AaltoML/bayesVLM.svg?style=social&label=Star)](https://github.com/AaltoML/bayesVLM)
+
++ **Verb Mirage** [Verb Mirage: Unveiling and Assessing Verb Concept Hallucinations in Multimodal Large Language Models](https://arxiv.org/pdf/2412.04939) (6 Dec 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.04939)
+
++ **PUNC** [Towards Understanding and Quantifying Uncertainty for Text-to-Image Generation](https://arxiv.org/abs/2412.03178) (4 Dec 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03178)
 
 + **UA-CLM** [Enhancing Trust in Large Language Models with Uncertainty-Aware Fine-Tuning](https://arxiv.org/abs/2412.02904) (3 Dec 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.02904)
@@ -105,9 +114,20 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.12794)
   [![Star](https://img.shields.io/github/stars/smartyfh/LLM-Uncertainty-Bench.svg?style=social&label=Star)](https://github.com/smartyfh/LLM-Uncertainty-Bench)
 
++ **CD-CCA** [Cloud-Device Collaborative Learning for Multimodal Large Language Models](https://arxiv.org/abs/2312.16279) (26 Dec 2023, CVPR 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.16279)
+
 + **VCD** [Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding](https://arxiv.org/abs/2311.16922) (28 Nov 2023, CVPR 2024 Highlight)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16922)
   [![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VCD.svg?style=social&label=Star)](https://github.com/DAMO-NLP-SG/VCD)
+
++ **LURE** [Analyzing and Mitigating Object Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2310.00754) (1 Oct 2023, ICLR 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.00754)
+  [![Star](https://img.shields.io/github/stars/YiyangZhou/LURE.svg?style=social&label=Star)](https://github.com/YiyangZhou/LURE)
+
++ **PAU** [Prototype-based Aleatoric Uncertainty Quantification for Cross-modal Retrieval](https://arxiv.org/abs/2309.17093) (29 Sep 2023, NeurIPS 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2309.17093)
+  [![Star](https://img.shields.io/github/stars/leolee99/PAU.svg?style=social&label=Star)](https://github.com/leolee99/PAU)
 
 + **KnowNo** [Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners](https://arxiv.org/abs/2403.13198) (4 Jul 2023, CoRL 2023, Best Student Paper)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.13198)
@@ -117,9 +137,17 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00398)
   [![Star](https://img.shields.io/github/stars/ExplainableML/ProbVLM.svg?style=social&label=Star)](https://github.com/ExplainableML/ProbVLM)
 
++ **GAVIE** [Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/abs/2306.14565) (26 Jun 2023, ICLR 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.14565)
+  [![Star](https://img.shields.io/github/stars/FuxiaoLiu/LRV-Instruction.svg?style=social&label=Star)](https://github.com/FuxiaoLiu/LRV-Instruction)
+
 + [Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://arxiv.org/abs/2306.13063) (22 Jun 2023, ICLR 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.13063)
   [![Star](https://img.shields.io/github/stars/MiaoXiong2320/llm-uncertainty.svg?style=social&label=Star)](https://github.com/MiaoXiong2320/llm-uncertainty)
+
++ **POPE** [Evaluating Object Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2305.10355) (17 May 2023, EMNLP 2023)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10355)
+  [![Star](https://img.shields.io/github/stars/RUCAIBox/POPE.svg?style=social&label=Star)](https://github.com/RUCAIBox/POPE)
 
 + **UQ-NLG** [Generating with Confidence: Uncertainty Quantification for Black-box Large Language Models](https://arxiv.org/abs/2305.19187) (30 May 2023, TMLR)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.19187)
