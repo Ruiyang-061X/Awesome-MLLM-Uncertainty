@@ -13,12 +13,16 @@
 
 ## 🔥 News
 
-- 2025.1: 🔥🔥🔥 Check out our latest work: [VL-Uncertainty](https://arxiv.org/abs/2411.11919), leveraging semantic-equivalent perturbation for refined LVLM uncertainty estimation!
+- 2025.3: 🔥🔥🔥 Check out our latest work: [Uncertainty-o](https://github.com/Ruiyang-061X/Uncertainty-o), unveiling uncertainty in Large Multimodal Models (LMMs) in a model-agnostic manner, supporting both Large Comprehension Models and Large Generation Models.
+- 2025.1: 🔥🔥🔥 Check out our [VL-Uncertainty](https://arxiv.org/abs/2411.11919), leveraging semantic-equivalent perturbation for refined LVLM uncertainty estimation!
 
 ## Awesome List
 
++ **Uncertainty-o** [Uncertainty-o: One Model-agnostic Framework for Unveiling Epistemic Uncertainty in Large Multimodal Models](https://github.com/Ruiyang-061X/Uncertainty-o) (11 March 2025)
+  [![Star](https://img.shields.io/github/stars/Ruiyang-061X/Uncertainty-o.svg?style=social&label=Star)](https://github.com/Ruiyang-061X/Uncertainty-o)
+
 + **HEIE** [HEIE: MLLM-Based Hierarchical Explainable AIGC Image Implausibility Evaluator](https://arxiv.org/abs/2411.17261) (26 Nov 2024)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.17261)
+  [![Star](https://img.shields.io/github/stars/hfutml/Calibration-MLLM.svg?style=social&label=Star)](https://github.com/hfutml/Calibration-MLLM)
 
 + **Calibration-MLLM** [Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models](https://arxiv.org/abs/2412.14660) (19 Dec 2024, COLING 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.14660)
