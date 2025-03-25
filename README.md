@@ -18,7 +18,13 @@
 
 ## Awesome List
 
-+ **Uncertainty-o** [Uncertainty-o: One Model-agnostic Framework for Unveiling Epistemic Uncertainty in Large Multimodal Models](https://github.com/Ruiyang-061X/Uncertainty-o) (11 March 2025)
++ **PC-SGG** [Conformal Prediction and MLLM aided Uncertainty Quantification in Scene Graph Generation](https://arxiv.org/abs/2503.13947) (18 Mar 2025, CVPR 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.13947)
+  
++ **SRICE** [Seeing and Reasoning with Confidence: Supercharging Multimodal LLMs with an Uncertainty-Aware Agentic Framework](https://arxiv.org/abs/2503.08308) (11 Mar 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.08308)
+
++ **Uncertainty-o** [Uncertainty-o: One Model-agnostic Framework for Unveiling Epistemic Uncertainty in Large Multimodal Models](https://github.com/Ruiyang-061X/Uncertainty-o) (11 Mar 2025)
   [![Star](https://img.shields.io/github/stars/Ruiyang-061X/Uncertainty-o.svg?style=social&label=Star)](https://github.com/Ruiyang-061X/Uncertainty-o)
 
 + **HEIE** [HEIE: MLLM-Based Hierarchical Explainable AIGC Image Implausibility Evaluator](https://arxiv.org/abs/2411.17261) (26 Nov 2024)
