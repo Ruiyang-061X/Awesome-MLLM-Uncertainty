@@ -62,6 +62,13 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.11919)
   [![Star](https://img.shields.io/github/stars/Ruiyang-061X/VL-Uncertainty.svg?style=social&label=Star)](https://github.com/Ruiyang-061X/VL-Uncertainty)
 
++ **4DGS** [4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization](https://arxiv.org/abs/2411.08879) (13 Nov 2024, NeurIPS 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.08879)
+
++ **SUM** [Uncertainty-aware Fine-tuning of Segmentation Foundation Models](https://proceedings.neurips.cc/paper_files/paper/2024/file/5f999632c48f87cffb214e575581e4a9-Paper-Conference.pdf) (6 Nov 2024, NeurIPS 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://proceedings.neurips.cc/paper_files/paper/2024/file/5f999632c48f87cffb214e575581e4a9-Paper-Conference.pdf)
+  [![Star](https://img.shields.io/github/stars/Kangningthu/SUM.svg?style=social&label=Star)](https://github.com/Kangningthu/SUM)
+
 + **MUB** [Exploring Response Uncertainty in MLLMs: An Empirical Evaluation under Misleading Scenarios](https://arxiv.org/abs/2411.02708) (5 Nov 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.02708)
   [![Star](https://img.shields.io/github/stars/Yunkai696/MUB.svg?style=social&label=Star)](https://github.com/Yunkai696/MUB)
@@ -77,11 +84,19 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.05767)
   [![Star](https://img.shields.io/github/stars/Ruiyang-061X/VL-Uncertainty.svg?style=social&label=Star)](https://github.com/Ruiyang-061X/VL-Uncertainty)
 
++ **MLLM-CompBench** [MLLM-CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs](https://arxiv.org/abs/2407.16837) (23 Jul 2024, NeurIPS 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.16837)
+  [![Star](https://img.shields.io/github/stars/RaptorMai/CompBench.svg?style=social&label=Star)](https://github.com/RaptorMai/CompBench)
+
 + **Semantic Entropy** [Detecting Hallucinations in Large Language Models Using Semantic Entropy](https://www.nature.com/articles/s41586-024-07421-0) (19 Jun 2024, Nature)
   [![Star](https://img.shields.io/github/stars/jlko/semantic_uncertainty.svg?style=social&label=Star)](https://github.com/jlko/semantic_uncertainty)
 
 + **UAL** [Uncertainty Aware Learning for Language Model Alignment](https://arxiv.org/abs/2406.04854) (7 Jun 2024, ACL 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.04854)
+
++ **MOMBO** [Deterministic Uncertainty Propagation for Improved Model-Based Offline Reinforcement Learning](https://arxiv.org/abs/2406.04088) (6 Jun 2024, NeurIPS 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.04088)
+  [![Star](https://img.shields.io/github/stars/adinlab/MOMBO.svg?style=social&label=Star)](https://github.com/adinlab/MOMBO)
 
 + **HIO** [Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization](https://arxiv.org/abs/2405.15356) (24 May 2024, NeurIPS 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.15356)
